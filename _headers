@@ -1,0 +1,79 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.db09565070f6cbb31b6f.css
+  Cache-Control: public, max-age=31536000, immutable
+/21608d8aba380fc113f4f2d13c08ea12437d8773-8f3df8f39d1b6639748b.js
+  Cache-Control: public, max-age=31536000, immutable
+/6dcd7ae9a4a8e3a6c0af5949a646c9f3a66ed496-04bed7404017b85e5004.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-fb6846659b69d2dff622.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-js-4f00ebf77cfd32685791.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-success-js-d4ec0ddad89074ea7eb8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-cart-js-134ea176dbe127ad2c0b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-faq-js-d47926bcc3bf1b0e7cdd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-forgot-js-aa17380708d50f89fc54.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-how-to-use-js-669255df681b6c538763.js
+  Cache-Control: public, max-age=31536000, immutable
+/3a14c5b835a356179b7addf1621f3f6d94183f9d-97d95d94b709a62b370e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-0720c03cf3fbcb932652.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-login-js-d7d6954f903739280c13.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-order-confirm-js-d92416d1b340df1a35f2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-search-js-d981b9a77fac9b0063ee.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-shop-js-12984fdd83b789ceacc8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-shop-v-2-js-642c86f26a41cc8fa362.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-signup-js-eafce23f003c1905e4e7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-styling-js-37ac9f3db528cb5ce094.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-support-js-7b7fb9d2edae1264811c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-address-js-0247cb5e39bd9f2bfe60.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-favorites-js-972dd520a6673ea3cf87.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-index-js-bded8b10aae1465969f9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-orders-js-fbfd01e8a9646ec546af.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-settings-js-12045b9e5b3d04738e5a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-viewed-js-0782264da5669fe2c56a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-index-js-c9b3ca5d5aeefaaa34b1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-sample-js-07a8a904530d2cb8a536.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-product-sample-js-8aea4214df7ec48c5ce9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-product-camper-js-3f883918227f5d5b4131.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-product-patriot-js-f24ce39f700c569f95a3.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-3f70f6df8d3f046ce979.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-50a050ececb605a5dc03.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-66c3b2bf8dc46ee303c2.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
